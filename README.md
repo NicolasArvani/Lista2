@@ -1,3 +1,3 @@
 # Lista2
 
-Bodia
+Lista 2 - Estruturas de Repetição
